@@ -63,3 +63,4 @@ function sumScores(scores) {
 console.log(sumScores(student.scores));
 
 console.log(student.firstName + " - " + student.age);
+console.log("Homework functions branch update");
